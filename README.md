@@ -105,7 +105,7 @@ Cada carpeta agrupa los recursos correspondientes a su área temática, facilita
 
 ## Autor
 
-**Josué Santana Robledo Corona**
+**Santana Robledo**
 
 - GitHub: [santana-robledo](https://github.com/santana-robledo)
 - Repositorio: [Neumatica_y_PLC](https://github.com/santana-robledo/Neumatica_y_PLC)
